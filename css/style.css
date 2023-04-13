@@ -1,0 +1,59 @@
+/* Created by: Shyla Oommen
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS2O-Programming-Unit4-01-HTML-GuessMyNumber
+*/
+
+body {
+  background-color: #eae0d5;
+}
+
+h5 {
+  background-color: #284b63;
+  text-align: center;
+  border: 2px solid #545e56;
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p {
+  background-color: #284b63;
+  border: 2px solid #545e56;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 115%;
+}
+
+form {
+  border: 2px solid #545e56;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  font-size: 115%;
+}
+
+#response {
+  background-color: #284b63;
+  border: 2px solid #545e56;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  font-size: 115%;
+}
+
+img {
+  float: right;
+}
